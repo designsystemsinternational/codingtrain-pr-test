@@ -1,6 +1,7 @@
 {
   "name": "codingtrain-pr-test",
   "dependencies": {
-    "octokit": "^1.8.0"
+    "octokit": "^1.8.0",
+    "slugify": "^1.6.5"
   }
 }
