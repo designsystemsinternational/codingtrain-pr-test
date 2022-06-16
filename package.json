@@ -1,0 +1,6 @@
+{
+  "name": "codingtrain-pr-test",
+  "dependencies": {
+    "octokit": "^1.8.0"
+  }
+}
